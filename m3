@@ -11,3 +11,4 @@ prawda
 [2]
 odwarca listę
 4
+nums i vals odnoszą się do tej samej listy, 
