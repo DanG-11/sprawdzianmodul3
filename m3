@@ -6,3 +6,5 @@ dwa
 trzy
 cztery
 prawda
+
+1
