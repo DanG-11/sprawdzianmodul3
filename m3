@@ -8,3 +8,4 @@ cztery
 prawda
 2
 1
+[2]
