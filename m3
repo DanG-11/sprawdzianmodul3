@@ -10,3 +10,4 @@ prawda
 1
 [2]
 odwarca listę
+4
