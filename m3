@@ -14,3 +14,4 @@ odwarca listę
 nums i vals odnoszą się do tej samej listy, nums i vals są tej samej długości
 nums jest dłuższe niż vals, nums i vals to dwie rózne listy
 [3,2,1]
+[1,1,1,1,2,3]
