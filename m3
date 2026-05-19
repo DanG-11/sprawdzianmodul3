@@ -17,3 +17,4 @@ nums jest dłuższe niż vals, nums i vals to dwie rózne listy
 [1,1,1,1,2,3]
 trzy
 6
+ten fragment kodu spowoduje błąd wykonania(Runtime error)
