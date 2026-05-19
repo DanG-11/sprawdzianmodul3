@@ -2,3 +2,4 @@
 prawda
 dwa
 jeden
+dwa
